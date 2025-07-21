@@ -29,7 +29,7 @@ Via Development does not permit reproducing and or replicating our services with
 
 If you would like to view the privacy policy of our services, you may view them below.
 
-[Mr Poll's Privacy Policy](https://mrpoll.dev/privacy) \
+[Mr Poll's Privacy Policy](https://mrpoll.xyz/privacy) \
 [Xene's Privacy Policy](https://google.com)
 
 ### 6. Termination
@@ -62,6 +62,6 @@ Via Development is not liable or responsible for any direct, indirect, incidenta
 
 **Contact Information**
 
-If you would like to ask any questions or concerns regarding these Terms, please contact us either in our [discord server](https://mrpoll.dev/support) or email us at [contact@viadev.xyz](mailto:contact@viadev.xyz)
+If you would like to ask any questions or concerns regarding these Terms, please contact us either in our [discord server](https://mrpoll.xyz/support) or email us at [contact@viadev.xyz](mailto:contact@viadev.xyz)
 
 {% @github-files/github-code-block url="https://github.com/via-development/terms-of-service" %}
