@@ -55,7 +55,7 @@ Users have the following rights regarding their personal data:
 * The right to restrict or object to the processing of personal data
 * The right to data portability
 
-Users can exercise these rights by contacting us at[ ](privacy-policy.md#mr-polls-privacy-policy)[contact@viadev.xyz](mailto:contact@viadev.xyz)
+Users can exercise these rights by contacting us at[contact@viadev.xyz](mailto:contact@viadev.xyz)
 
 ### Contact Us
 
