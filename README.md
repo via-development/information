@@ -3,7 +3,7 @@
 ## If you're looking for documentation on Mr Poll, click below!
 
 {% content-ref url="https://docs.mrpoll.xyz" %}
-[!ref icon="./logo.png" text="Mr Poll Documentation" ](https://docs.mrpoll.xyz)
+[!ref icon="./bot.png" text="Mr Poll Documentation" ](https://docs.mrpoll.xyz)
 {% endcontent-ref %}
 
 ## Updates & News
